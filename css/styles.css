@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    background-color: bisque;
+    color: black;
+}
+
+.header {
+    background-color: #047e04;
+    color: #fff;
+}
+
+.header h1 {
+    text-align: center;
+    font-size: 40px;
+    text-indent: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #292929
+}
+
+img {
+    width: 361px;
+    height: 325px;
+    object-fit: cover;
+}
+
+a {
+    text-decoration: none;
+    color: #047e04;
+}
+
+p {
+    padding: 10px;
+}
